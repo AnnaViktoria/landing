@@ -1,0 +1,13 @@
+.links li {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  display: inline-block;
+  margin: 0px 10px;
+  font-size: 40px;
+}
+
+ul.links {
+  text-align: center;
+  padding: 0;
+}
